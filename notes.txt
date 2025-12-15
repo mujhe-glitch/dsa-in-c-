@@ -1,0 +1,79 @@
+Array -> 
+        collection of same type of data 
+
+
+        int a[5]; // 5 elements 
+
+index -> subscript -> 
+start 0 
+end size-1 
+0 1 2 3 4 
+bytes -> int a[5] => 4 byte * 5 => 20 byte 
+-------------------------------------------------------------------------
+
+
+bubble vs selection vs insertion 
+
+insertion sort --> 
+
+---------------------------------------------------------------------------------------------------
+                                                DS 
+                Linear DS                                                       Non Linear 
+
+                *Array                                                           Tree
+                stack                                                           Graph
+                queue
+                Linked List
+
+                sorting 
+                        *bubble *selection *insertion merge quick 
+                searching
+                        Linear binary  
+
+---------------------------------------------------------------------------------------------------
+
+        
+        Stack -> 
+                        LIFO -> Last In First Out 
+
+        whats app -> sms -> 
+                        9 
+                        9.15
+                        9.20
+
+        call logs --> 
+        history --> 
+        recursion --> 
+
+
+
+a+b*c-d/f
+->abc*+df/-
+
+
+(1) a+(b+c)*d
+a+bc+d*
+a+(bc+d*)
+abc+d*+
+
+(2) a+b*(c^d-g/h)
+abcd^gh/-*+
+
+(3)a+b*(c^d-e)^f+g/h
+abcd^e-f^*+gh/+
+
+(4)abcdef^/*-+gh+^
+
+
+
+(1) a+b-c 
+ab+c-
+
+(2) a*b+c*d
+ab*+c*d
+->ab*cd*+
+
+
+(3) a+b*(c^d-e)*f 
+
+->abcd^e-*f*+

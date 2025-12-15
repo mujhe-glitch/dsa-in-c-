@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "ARRAY[1].C": "cpp",
+        "bitset": "c",
+        "cstdlib": "c",
+        "algorithm": "c",
+        "functional": "c",
+        "ranges": "c",
+        "text_encoding": "c",
+        "regex": "c"
+    }
+}
