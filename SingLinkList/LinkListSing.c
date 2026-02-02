@@ -131,6 +131,7 @@ int main()
             break;
         case 2 :
             removeNode();
+            break;
         case 3:
             displayList();
             break;

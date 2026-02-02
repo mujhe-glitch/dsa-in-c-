@@ -4,15 +4,17 @@ int main(){
     int i,j;
     int gra[S][S];
     int source;
-    for(int i=0;i<S;i++){
-        for(int j=0;j<S;j++){
+    for(int i=0;i<S;i++)
+    {
+        for(int j=0;j<S;j++)
+        {
             printf("\n%d   connected    %d   ? ",i,j);
             scanf("%d",&gra[i][j]);
         }
     }
-    
     printf("\n\n");
-    for(i=0;i<S;i++){
+    for(i=0;i<S;i++)
+    {
         for(j=0;j<S;j++){
             printf("%d ",gra[i][j]);
         }
@@ -25,7 +27,5 @@ int main(){
             printf(" %d ",i);
         }
     }
-
-
     return 0; 
 }
